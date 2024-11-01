@@ -31,13 +31,13 @@ Asimismo, para este ejercicio se disponen de numerosos archivos .csv ingresados 
 ### Ejercicio 2
 Para el **Ejercicio 2** se utiliza el software **LINDO** para resolver un problema de programación lineal
 
-Instalación de **LINDO** en Windows
+Instalación de **LINDO** en Windows:
 
 Descargar LINDO desde la página oficial: <https://www.lindo.com/index.php/ls-downloads>
 
 Seleccionar **Classic LINDO** y ejercutar el **.exe**
 
-**Para replicar los resultados**
+**PARA REPLICAR LOS RESULTADOS**
 
 Abrir lindo y cargar el `Ejercicio 2 PL.ltx` que esta dentro de la carpeta ej2, una vez cargado darle al boton de **solve** para ejecutar. Les va a salir un warning en ingles de que el problema esta escalado pobremente, simplemente darle al boton de **OK**.
 
