@@ -35,11 +35,13 @@ Instalación de **LINDO** en Windows
 
 Descargar LINDO desde la página oficial: <https://www.lindo.com/index.php/ls-downloads>
 
-Seleccionar **Classic LINDO** y ejercutar el exe
+Seleccionar **Classic LINDO** y ejercutar el **.exe**
 
 **Para replicar los resultados**
+
 Abrir lindo y cargar el `Ejercicio 2 PL.ltx` que esta dentro de la carpeta ej2, una vez cargado darle al boton de **solve** para ejecutar. Les va a salir un warning en ingles de que el problema esta escalado pobremente, simplemente darle al boton de **OK**.
-Dentro de la carpeta **res** en la carpeta ej2 van a encontrar 2 capturas de pantalla, una con el codigo en **LINDO** y otra con el resultado
+
+Dentro de la carpeta **res** en la carpeta ej2 van a encontrar 2 capturas de pantalla, una con el codigo en **LINDO** y otra con el resultado.
 
 
 ### Ejercicio 3
